@@ -7,3 +7,5 @@ Second commit
 Fetch example
 
 Pull example
+
+Delete example
