@@ -5,3 +5,5 @@ First commit example
 Second commit
 
 Fetch example
+
+Pull example
